@@ -1,0 +1,14 @@
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.csprojAssemblyReference.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\App.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator_MarkupCompile.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator_MarkupCompile.lref
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\bin\Debug\Employee-Pay_Calculator.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\bin\Debug\Employee-Pay_Calculator.pdb
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\MainWindow.baml
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.g.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee_Pay_Calculator.Properties.Resources.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.csproj.GenerateResource.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Project\Prj2\Employee-Pay_Calculator\Employee-Pay_Calculator\obj\Debug\Employee-Pay_Calculator.pdb

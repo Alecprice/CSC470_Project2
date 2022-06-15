@@ -1,0 +1,27 @@
+﻿<Window x:Class="Employee_Pay_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Employee_Pay_Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label FontSize="12"  Height="30" Margin="175,26.5,175,362.5" VerticalContentAlignment="Center">First Name :</Label>
+        <TextBox Name="textBox" Height="30" Width="200" Margin="296,26.5,296,362.5"></TextBox>
+
+        <Label FontSize="12"  Height="30"  VerticalContentAlignment="Center" Margin="175,75.5,-175,313.5">Last Name :</Label>
+        <TextBox Name="textBox1" Height="30" Width="200" Margin="296,75.5,296,313.5"></TextBox>
+
+        <Label FontSize="12"  Height="30"  VerticalContentAlignment="Center" Margin="175,130.5,-175,258.5">Age :</Label>
+        <TextBox Name="textBox2" Height="30" Width="200" Margin="296,130.5,296,258.5"></TextBox>
+
+        <Label FontSize="12"  Height="30"  VerticalContentAlignment="Center" Margin="175,182.5,-175,206.5">Consulting Rate :</Label>
+        <TextBox Name="textBox3" Height="30" Width="200" Margin="296,182.5,296,206.5"></TextBox>
+
+        <Label FontSize="12"  Height="30"  VerticalContentAlignment="Center" Margin="175,243.5,-175,145.5">Hours Worked :</Label>
+        <TextBox Name="textBox4" Height="30" Width="200" Margin="296,243.5,296,145.5"></TextBox>
+
+        <Button x:Name="button1" Click="button_Click" Height="30" Width="100" Margin="348,322.5,344,66.5">Calculate</Button>
+    </Grid>
+</Window>
